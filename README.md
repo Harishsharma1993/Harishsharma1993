@@ -16,9 +16,10 @@
 ---
 
 ### 📫 Connect with Me
-- 📍 **LinkedIn**: www.linkedin.com/in/harish-chander-07571a161
-
-- 📧 **Email**: harishsharma402@gmail.com
+- 🔗 **LinkedIn**: [Harish Chander](https://www.linkedin.com/in/harish-chander-07571a1061)
 
 
---->
+- 📧 **Email**: [harishsharma402@gmail.com](mailto:harishsharma402@gmail.com)
+
+
+
