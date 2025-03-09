@@ -1,9 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Harish Chander </h1>
 <h3 align="center"> Data Analyst | SQL | Power BI | Python | Excel | Tableau </h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link" width="500px">
-</p>
+
 
 ---
 
